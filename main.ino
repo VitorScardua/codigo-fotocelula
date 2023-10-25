@@ -322,9 +322,6 @@ while(1){
 }
 }
 
-void loop() {
-}
-}
 
 void loop() {
 }
